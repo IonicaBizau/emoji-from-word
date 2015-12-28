@@ -18,3 +18,6 @@ console.log(emojiFromWord("happy").toString());
 
 console.log(emojiFromWord("space").toString());
 // => ":milky_way:"
+
+console.log(emojiFromWord("keys").toString());
+// => ":key:"

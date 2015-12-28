@@ -18,6 +18,7 @@
   "license": "MIT",
   "dependencies": {
     "average": "0.0.1",
+    "emojilib": "^1.1.0",
     "iterate-object": "^1.3.0",
     "levenshtein-array": "^2.2.0"
   }
