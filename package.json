@@ -21,5 +21,14 @@
     "emojilib": "^1.1.0",
     "iterate-object": "^1.3.0",
     "levenshtein-array": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IonicaBizau/emoji-from-word.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IonicaBizau/emoji-from-word/issues"
+  },
+  "homepage": "https://github.com/IonicaBizau/emoji-from-word#readme"
 }
