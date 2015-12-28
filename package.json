@@ -1,0 +1,24 @@
+{
+  "name": "emoji-from-word",
+  "version": "1.0.0",
+  "description": "Get emoji from input word.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emoji",
+    "word",
+    "input"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "MIT",
+  "dependencies": {
+    "average": "0.0.1",
+    "iterate-object": "^1.3.0",
+    "levenshtein-array": "^2.2.0"
+  }
+}
