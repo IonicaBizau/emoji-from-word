@@ -1,6 +1,6 @@
 {
   "name": "emoji-from-word",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Get emoji from input word.",
   "main": "lib/index.js",
   "directories": {
