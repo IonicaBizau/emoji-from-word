@@ -1,6 +1,6 @@
 {
   "name": "emoji-from-word",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Get emoji from input word.",
   "main": "lib/index.js",
   "directories": {
@@ -28,5 +28,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-from-word/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-from-word#readme"
+  "homepage": "https://github.com/IonicaBizau/emoji-from-word#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
