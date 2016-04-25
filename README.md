@@ -1,14 +1,18 @@
+
 # emoji-from-word [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/emoji-from-word.svg)](https://www.npmjs.com/package/emoji-from-word) [![Downloads](https://img.shields.io/npm/dt/emoji-from-word.svg)](https://www.npmjs.com/package/emoji-from-word) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
 > Get emoji from input word.
 
-## Installation
+## :cloud: Installation
 
 ```sh
 $ npm i --save emoji-from-word
 ```
 
-## Example
+
+## :clipboard: Example
+
+
 
 ```js
 const emojiFromWord = require("emoji-from-word");
@@ -36,7 +40,8 @@ console.log(emojiFromWord("keys").toString());
 // => ":key:"
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Match(input)`
 Creates a new `Match` instance.
@@ -66,15 +71,18 @@ Gets a `Match` instance for an input string.
 #### Return
 - **Match** A `Match` instance (documented above).
 
-## How to contribute
+
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`emoji-from-text`](https://github.com/IonicaBizau/emoji-from-text#readme)
 
-## License
+ - [`emoji-from-text`](https://github.com/IonicaBizau/emoji-from-text#readme)—Get relevant emoji for a given input text.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
