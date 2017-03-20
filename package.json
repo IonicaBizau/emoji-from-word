@@ -1,6 +1,6 @@
 {
   "name": "emoji-from-word",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "Get emoji from input word.",
   "main": "lib/index.js",
   "directories": {
@@ -14,7 +14,7 @@
     "word",
     "input"
   ],
-  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "author": "Ionică Bizău <bizauionica@gmail.com> (https://ionicabizau.net)",
   "license": "MIT",
   "dependencies": {
     "emojilib": "^1.1.0",
@@ -33,12 +33,11 @@
     "bin/",
     "app/",
     "lib/",
-    "build/",
     "dist/",
     "src/",
+    "scripts/",
     "resources/",
     "menu/",
-    "scripts/",
     "cli.js",
     "index.js"
   ]
