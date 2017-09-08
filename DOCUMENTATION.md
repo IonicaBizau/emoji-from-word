@@ -13,6 +13,7 @@ It contains the following properties:
  - `emoji_name` (String): The emoji name.
 
 #### Params
+
 - **String** `input`: The input string (just a word).
 
 ### `toString()`
@@ -25,6 +26,7 @@ Stringifies the `Match` instance.
 Gets a `Match` instance for an input string.
 
 #### Params
+
 - **String** `input`: The input string (just a word).
 
 #### Return
