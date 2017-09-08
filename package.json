@@ -1,6 +1,6 @@
 {
   "name": "emoji-from-word",
-  "version": "1.2.7",
+  "version": "1.2.8",
   "description": "Get emoji from input word.",
   "main": "lib/index.js",
   "directories": {
@@ -39,6 +39,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
